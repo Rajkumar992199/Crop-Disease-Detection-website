@@ -10953,6 +10953,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  opacity: 0.85;
 }
 header.background-image {
   opacity: 85%;
