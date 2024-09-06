@@ -10955,9 +10955,6 @@ header.masthead {
   background-size: cover;
   opacity: 0.85;
 }
-header.background-image {
-  opacity: 85%;
-}
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;
