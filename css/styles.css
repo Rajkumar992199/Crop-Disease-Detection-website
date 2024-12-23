@@ -43,7 +43,6 @@
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #ffc800;
   --bs-link-hover-color: #cca000;
-  --bs-highlight-bg: #fff4cc;
 }
 
 *,
@@ -193,7 +192,7 @@ small, .small {
 
 mark, .mark {
   padding: 0.1875em;
-  background-color: var(--bs-highlight-bg);
+  background-color: #fff4cc;
 }
 
 sub,
