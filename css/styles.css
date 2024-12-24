@@ -40,7 +40,6 @@
   --bs-border-radius-lg: 0.5rem;
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
-  --bs-border-radius-pill: 50rem;
   --bs-link-color: #ffc800;
   --bs-link-hover-color: #cca000;
 }
@@ -8227,7 +8226,7 @@ textarea.form-control-lg {
 }
 
 .rounded-pill {
-  border-radius: var(--bs-border-radius-pill) !important;
+  border-radius: 50rem !important;
 }
 
 .rounded-top {
