@@ -39,7 +39,6 @@
   --bs-border-radius-sm: 0.25rem;
   --bs-border-radius-lg: 0.5rem;
   --bs-border-radius-xl: 1rem;
-  --bs-border-radius-2xl: 2rem;
   --bs-link-color: #ffc800;
   --bs-link-hover-color: #cca000;
 }
@@ -8218,7 +8217,7 @@ textarea.form-control-lg {
 }
 
 .rounded-5 {
-  border-radius: var(--bs-border-radius-2xl) !important;
+  border-radius: 2rem !important;
 }
 
 .rounded-circle {
