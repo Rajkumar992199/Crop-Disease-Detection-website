@@ -36,7 +36,6 @@
   --bs-border-color: #dee2e6;
   --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
   --bs-border-radius: 0.375rem;
-  --bs-border-radius-sm: 0.25rem;
   --bs-link-color: #ffc800;
   --bs-link-hover-color: #cca000;
 }
@@ -8199,7 +8198,7 @@ textarea.form-control-lg {
 }
 
 .rounded-1 {
-  border-radius: var(--bs-border-radius-sm) !important;
+  border-radius: 0.25rem !important;
 }
 
 .rounded-2 {
