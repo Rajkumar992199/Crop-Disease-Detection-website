@@ -28,7 +28,6 @@
   --bs-body-font-family: Roboto Slab, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
-  --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
   --bs-border-width: 1px;
@@ -57,7 +56,7 @@ body {
   font-family: var(--bs-body-font-family);
   /* font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight); */
-  line-height: var(--bs-body-line-height);
+  line-height: 1.5;
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
   background-color: var(--bs-body-bg);
